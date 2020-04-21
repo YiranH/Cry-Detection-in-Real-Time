@@ -36,6 +36,6 @@ In the report of Part 5, I proposed several ways to make my model more robust.
 
    https://drive.google.com/open?id=1_8OCMEV9lqEuZGeQ-bF4pAA9Abs3aITe
 
-3. My sample videos and tutorial video on YouTube:
+3. My sample videos and tutorial video on YouTube (the videos used in Part 6 are the same as Part 5):
 
    (https://www.youtube.com/playlist?list=PLzFb8wKb-EHHnxpzFXXUx3iGnDLuOGZDn)
