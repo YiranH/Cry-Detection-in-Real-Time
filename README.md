@@ -42,3 +42,27 @@ PART5
 3. My sample videos and tutorial video on YouTube (the first 4 videos are new for Part 5, video 5 is shared by Part 4 and Part 5):
 
    (https://www.youtube.com/playlist?list=PLzFb8wKb-EHHnxpzFXXUx3iGnDLuOGZDn)
+
+
+
+Part 6
+
+1. My codes on Github: <https://github.com/YiranH/Cry-Detection-in-Real-Time.git>
+
+2. My codes and data on Google Colab:
+
+   <https://drive.google.com/open?id=17LOBLJLDFgHtDvpQV39D5OBpooPrtlvv>
+
+   Demo code on Google Colab (Used in tutorial video):
+
+   <https://drive.google.com/open?id=19EZhbM8OaJiG3cNelXx_o5wll8yzsAk3>
+
+   Training code:
+
+   <https://drive.google.com/open?id=1jKlJkayAg0lA83l3UW4oO4ZWk-TKEz7t>
+
+   <https://drive.google.com/open?id=1_8OCMEV9lqEuZGeQ-bF4pAA9Abs3aITe>
+
+3. My sample videos and tutorial video on YouTube (the videos used in Part 6 are the same as Part 5):
+
+   (<https://www.youtube.com/playlist?list=PLzFb8wKb-EHHnxpzFXXUx3iGnDLuOGZDn>)
